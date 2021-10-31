@@ -1,6 +1,5 @@
 ## This is not the original code for the script.:
 
-<a href="https://colab.research.google.com/github/flamel7ramond/SSFDL/blob/master/Skillshare_DL_%5BKENWAY%5D.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <hr>
 

@@ -1,6 +1,6 @@
-# For those who does not care iCloud and stock mac Applications
-# As well as stopping Spotlight completley
-# tested on bigsur (Intel and M )
+# The original script is here:: https://gist.github.com/ecompayment/b1054421eb90f296bbca226683c7ff7e#file-disable_bigsur_remove_app_stop_spotlight-sh
+# This is my Modded Script to reverb all of adjustment to the way there were.
+# tested on monterey
 
 #!/bin/bash
 
